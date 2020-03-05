@@ -3,19 +3,6 @@
 Safetypo alphabet is composed of 3 kind of characters : digits, latin letters and separators.
 
 
-## Separators characters list
-
-| UNICODE | Explicit charset |
-|-|-|
-| u+0026 | & |
-| u+0027 | ' |
-| u+002A | * |
-| u+002B | + |
-| u+002D | - |
-| u+002E | . |
-| u+005F | _ |
-
-
 ## Digits characters list
 
 | UNICODE | Explicit charset |
@@ -30,6 +17,57 @@ Safetypo alphabet is composed of 3 kind of characters : digits, latin letters an
 | u+0037 | 7 | 
 | u+0038 | 8 | 
 | u+0039 | 9 |
+
+
+
+## Separators and punctuation characters list
+
+| UNICODE | Explicit charset |
+|-|-|
+| u+0026 | & |
+| u+0027 | ' |
+| u+0028 | ( |
+| u+0029 | ) |
+| u+002A | * |
+| u+002B | + |
+| u+002D | - |
+| u+002E | . |
+| u+005F | _ |
+| u+055D | ՝ |
+| u+FF07 | ＇ |
+| u+2018 | ‘ |
+| u+2019 | ’ |
+| u+201b | ‛ |
+| u+2032 | ′ |
+| u+2035 | ‵ |
+| u+055a | ՚ |
+| u+05f3 | ׳ |
+| u+0060 | ` |
+| u+1fef | ` |
+| u+ff40 | ｀ |
+| u+00b4 | ´ |
+| u+0384 | ΄ |
+| u+1ffd | ´ |
+| u+1fbd | ᾽ |
+| u+1fbf | ᾿ |
+| u+1ffe | ῾ |
+| u+02b9 | ʹ |
+| u+0374 | ʹ |
+| u+02c8 | ˈ |
+| u+02ca | ˊ |
+| u+02cb | ˋ |
+| u+02f4 | ˴ |
+| u+02bd | ʽ |
+| u+02bc | ʼ |
+| u+02be | ʾ |
+| u+a78c | ꞌ |
+| u+05d9 | י |
+| u+07f4 | ߴ |
+| u+07f5 | ߵ |
+| u+144a | ᑊ |
+| u+16cc | ᛌ |
+| u+16f51 | 𖽑 |
+| u+16f52 | 𖽒 |
 
 
 ## Latin characters list
